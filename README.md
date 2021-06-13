@@ -1,3 +1,13 @@
+# Skills :
+
+- Python
+  - NumPy
+  - Pandas
+  - Matplotlib
+  - Seaborn
+- OpenCV
+- 
+
 # Projects :
 ---
 ## Deep Learning (Computer Vision) Projects :
