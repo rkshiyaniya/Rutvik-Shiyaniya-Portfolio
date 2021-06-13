@@ -1,12 +1,42 @@
 # Skills :
 
-- Python
+- Programming Languages -
+  - Proficient    : Python
+  - Familiar With : Java & C
+- BI Tool -
+  - Working Knowledge of Tableau
+- Database -
+  - Familiar with : SQL, MySQL
+- Libraries -
   - NumPy
   - Pandas
   - Matplotlib
-  - Seaborn
-- OpenCV
-- 
+  - OpenCV
+  - Other CV related libraries
+- Machine Learning Library -
+  - Sci-kit Learn
+- Machine Learning Areas -
+  - Proficient    : Supervised Learning Algorithms
+  - Familiar with : Unsupervised Learning Algorithms
+- Deep Learning Framework -
+  - TensorFlow
+  - Keras
+- Deep Learning Areas -
+  - Proficient    : Computer Vision
+  - Familiar With : NLP & GANs
+- Computer Vision Areas -
+  - Image Classification
+  - Image Segmentation
+  - Object Detection
+- Version Control Tools -
+  - Git
+  - GitHub
+- Web Framework -
+  - Familiar with : Flask
+- Tools/IDEs -
+  - Jupyter Notebook
+  - Google Colab
+  - PyCharm
 
 # Projects :
 ---
