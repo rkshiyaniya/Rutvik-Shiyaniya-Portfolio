@@ -5,17 +5,17 @@
 ### Real-time Face Mask Detector
 
 Tech. Stack :
-[x] Python
-[x] TensorFlow/Keras
-[x] OpenCV
-[x] DNN Caffe Models - face detection
-[x] mobilenet_v2 base model with pre-trained weights of 'imagenet'
+- [x] Python
+- [x] TensorFlow/Keras
+- [x] OpenCV
+- [x] DNN Caffe Models - face detection
+- [x] mobilenet_v2 base model with pre-trained weights of 'imagenet'
 
 Categories :
-- Image Classification (Computer Vision)
-- Deep Learning
-- Transfer Learning
-- Real-time Face Detection
+- [x] Image Classification (Computer Vision)
+- [x] Deep Learning
+- [x] Transfer Learning
+- [x] Real-time Face Detection
 
 * This Project is built using above Tech. Stack.
 * For Face Detection DNN based caffe model has been used.
@@ -28,37 +28,37 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 ## Data Science & Machine Learning Projects
 
 Tech. Stack :
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Sci-kit Learn
+- [x] Python
+- [x] NumPy
+- [x] Pandas
+- [x] Matplotlib
+- [x] Seaborn
+- [x] Sci-kit Learn
 
 Categories :
-- Supervised Learning
-- Classification Algorithms
-- Machine Learning
-- Data Science
-- Exploratory Data Analysis
-- Data Preprocessing (Handling Data Imbalance, Outliers)
-- Feature Selection
-- Machine Learning Model Building
-- Model Evaluation
+- [x] Supervised Learning
+- [x] Classification Algorithms
+- [x] Machine Learning
+- [x] Data Science
+- [x] Exploratory Data Analysis
+- [x] Data Preprocessing (Handling Data Imbalance, Outliers)
+- [x] Feature Selection
+- [x] Machine Learning Model Building
+- [x] Model Evaluation
 
 ### [Breast Cancer Predication](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Classification%202.ipynb)
 
 * Dataset used : [Click here to download](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
-* This Project is built using above Tech. Stack.
-* Here I have uploaded 2 versions of this project.
+* I have uploaded 2 versions of this project.
 * Version 1 : This [Notebook](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Classification%201.ipynb) contains simple method for feature selection based on correlation with target attribute.
 * Version 2 : This [Notebook](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Classification%202.ipynb) contains logistic regression method for feature selection based on column's accuracy.
 * Able to got ~100% accuracy.
 
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Classification%202.ipynb)
+
 ### [Red Wine Quality Prediction](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Red%20Wine%20Quality.ipynb)
 
 * Dataset used : [Click here to download](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
-* This Project is built using above Tech. Stack.
 * Project contains in-depth insight into Dataset - Exploratory Data Analysis, Visualization and Data Preparation.
 * Tried different algorithms for classification and got ~98% accuracy.
 
