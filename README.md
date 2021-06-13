@@ -1,7 +1,15 @@
-# Welcome to 
+# Technical Skill
 
-# Projects :
-
-## Real-time Face Mask Detector :
 ---
-Real Time Face Mask Detector with TensorFlow/Keras with the help of OpenCV. By Caffe model detecting Face then Classify whether person wearing Mask or Not based on trained model on base of mobilenet_v2 model with pre-trained weights of 'imagenet'.
+# Projects :
+---
+## Real-time Face Mask Detector :
+
+This project is built using above Tech. Stack.
+
+Tech. Stack :
+- Python
+- TensorFlow/Keras
+- OpenCV
+- Face Detection (DNN Caffe Models)
+- Transfer Learning (mobilenet_v2 base model with pre-trained weights of 'imagenet')
