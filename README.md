@@ -5,11 +5,11 @@
 ### Real-time Face Mask Detector
 
 Tech. Stack :
-- [ ] Python
-- [ ] TensorFlow/Keras
-- [ ] OpenCV
-- [ ] DNN Caffe Models - face detection
-- [ ] mobilenet_v2 base model with pre-trained weights of 'imagenet'
+- [x] Python
+- [x] TensorFlow/Keras
+- [x] OpenCV
+- [x] DNN Caffe Models - face detection
+- [x] mobilenet_v2 base model with pre-trained weights of 'imagenet'
 
 Categories :
 - Image Classification (Computer Vision)
