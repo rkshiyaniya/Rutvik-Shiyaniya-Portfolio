@@ -1,6 +1,6 @@
 # Hello, Welcome to Rutvik's Portfolio ... 
 
-![Profile_Picture](Rutvik_Passport.png)
+<img align="right" width="100" height="100" src="Rutvik_Passport.png">
 
 # Professional Working Experiences :
 ---
