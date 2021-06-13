@@ -1,14 +1,8 @@
 # Hello, Welcome to Rutvik's Portfolio ... 
 
-A Data Science Enthusiast with hands-on working experience in data
-science, machine learning and deep learning(computer vision) domain.
-Interested in getting insight from the data, to perform exploratory data
-analysis, visualization and build predictive machine learning model. Also
-carrying major expertise in Deep Learning specially in Computer Vision
-applications - Image Classification, Image Segmentation, Object Detection
-- with hands-on projects.
-
 <img align="right" width="150" height="200" src="Rutvik_Passport.png">
+
+A Data Science Enthusiast with hands-on working experience in data science, machine learning and deep learning(computer vision) domain. Interested in getting insight from the data, to perform exploratory data analysis, visualization and build predictive machine learning model. Also carrying major expertise in Deep Learning specially in Computer Vision applications - Image Classification, Image Segmentation, Object Detection - with hands-on projects.
 
 # Professional Working Experiences :
 ---
