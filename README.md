@@ -1,7 +1,7 @@
 # Professional Working Experiences :
 ---
 ### MACHINE LEARNING INTERN
-### WeHear | June 2021 - Present
+### @WeHear | June 2021 - Present
 Key Achievements & Responsibilities :
 - [x] Researched on NIR-Spectroscopy to understand data
 - [x] Performed Data Preprocessing and Cleaning
@@ -11,7 +11,7 @@ Key Achievements & Responsibilities :
 - [x] Helped to classify medicines into respective categories
 
 ### MACHINE LEARNING & DATA SCIENCE INTERN
-### MentorBoxx | April 2021 - June 2021
+### @MentorBoxx | April 2021 - June 2021
 Key Achievements & Responsibilities :
 - [x] Trained on Machine Learning & Data Science Concepts
 - [x] Applied Exploratory Data Analysis and Data Preprocessing techniques on various types of Dataset
@@ -19,8 +19,8 @@ Key Achievements & Responsibilities :
 - [x] Learnt to design complete Data Science Project
 - [x] Implemented end-to-end Data Science projects from Data Preprocessing to Build Predictive Model and deployed on local server
 
-### MACHINE LEARNING DEVELOPMENT ENGINEER, INTERN
-### Stark Apps | April 2021 - May 2021
+### MACHINE LEARNING DEVELOPMENT ENGINEER INTERN
+### @Stark Apps | April 2021 - May 2021
 Key Achievements & Responsibilities :
 - [x] Researched and Designed Computer Vision Project
 - [x] Implemented in Deep Learning with TensorFlow
