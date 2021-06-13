@@ -24,6 +24,75 @@ Categories :
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Real-Time-Face-Mask-Detector)
 
+### [Image Classification with Different Neural Network Architecture](https://github.com/rkshiyaniya/Neural-Network-Architecture-Implementation-for-Image-Classification)
+
+Tech. Stack :
+- [x] Python
+- [x] TensorFlow/Keras
+- [x] NumPy
+- [x] Sci-kit Learn
+- [x] Matplotlib
+
+Categories :
+- [x] Image Classification (Computer Vision)
+- [x] Deep Learning
+- [x] Neural Network Architucture Implementation
+- [x] Model Evaluation
+
+### LeNet Architecture Implementation on MNIST Dataset
+
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Neural-Network-Architecture-Implementation-for-Image-Classification/blob/main/LeNet_MNIST.ipynb)
+
+### MiniVGGNet Architecture Implementation on cifar10 Dataset
+
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Neural-Network-Architecture-Implementation-for-Image-Classification/blob/main/MiniVGGNet_cifar10.ipynb)
+
+### [GUI App for Multiple Handwritten Digit Recognition](https://github.com/rkshiyaniya/Multiple-Handwritten-Digit-Recognition)
+
+Tech. Stack :
+- [x] Python
+- [x] TensorFlow/Keras
+- [x] NumPy
+- [x] OpenCV
+- [x] PIL (pillow)
+- [x] tkinter
+
+Categories :
+- [x] Image Classification (Computer Vision)
+- [x] Deep Learning
+- [x] Neural Network Architucture Implementation
+- [x] Model Evaluation
+
+* This Project is built using above Tech. Stack.
+* Dataset Used : MNIST digit
+* Deep Learning Model has been built in TensorFlow/Keras from scratch and trained using CNNs.
+* With the help of OpenCV it's possible to detect Multiple Digits in Canvas made in tkinter.
+* Detected digits are passed to Model for Prediction.
+
+For more details and Source Code Visit my Repo : [Github Link]((https://github.com/rkshiyaniya/Multiple-Handwritten-Digit-Recognition))
+
+### [Image Segmentation with Different Neural Network Architecture](https://github.com/rkshiyaniya/Image-Segmentation-Using-TensorFlow)
+
+Tech. Stack :
+- [x] Python
+- [x] TensorFlow/Keras
+- [x] NumPy
+- [x] Matplotlib
+
+Categories :
+- [x] Image Segmentation (Computer Vision)
+- [x] Deep Learning
+- [x] Neural Network Architucture Implementation
+- [x] Model Evaluation
+
+### VGG16 - FCN8 for Image Segmentation
+
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Image-Segmentation-Using-TensorFlow/blob/main/VGG16_FCN8_CamVid.ipynb)
+
+### UNet for Image Segmentation
+
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Image-Segmentation-Using-TensorFlow/blob/main/Image_Segmentation_UNet_OxfordPets.ipynb)
+
 ---
 ## Data Science & Machine Learning Projects :
 
@@ -92,7 +161,7 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
 
-# [Nutrition Facts for McDonald's Menu Analysis](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/McDonald's%20Menu.ipynb)
+### [Nutrition Facts for McDonald's Menu Analysis](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/McDonald's%20Menu.ipynb)
 
 * Dataset used : [Click here to download](https://www.kaggle.com/mcdonalds/nutrition-facts)
 * This Project contains in-depth Exploratory Data Analysis and Visualization about Nutritions in McDonald's Menu.
