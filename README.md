@@ -2,7 +2,7 @@
 
 ## Deep Learning (Computer Vision) Projects
 
-### Real-time Face Mask Detector
+### [Real-time Face Mask Detector](https://github.com/rkshiyaniya/Real-Time-Face-Mask-Detector)
 
 Tech. Stack :
 - [x] Python
