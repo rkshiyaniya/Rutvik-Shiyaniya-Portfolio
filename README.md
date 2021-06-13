@@ -23,6 +23,7 @@ Categories :
 * I have made it Real-time with the help of OpenCV.
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Real-Time-Face-Mask-Detector)
+
 ---
 ## Data Science & Machine Learning Projects :
 
