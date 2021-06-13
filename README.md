@@ -1,6 +1,6 @@
 # Projects :
-
-## Deep Learning (Computer Vision) Projects
+---
+## Deep Learning (Computer Vision) Projects :
 
 ### [Real-time Face Mask Detector](https://github.com/rkshiyaniya/Real-Time-Face-Mask-Detector)
 
@@ -23,9 +23,8 @@ Categories :
 * I have made it Real-time with the help of OpenCV.
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Real-Time-Face-Mask-Detector)
-
-
-## Data Science & Machine Learning Projects
+---
+## Data Science & Machine Learning Projects :
 
 Tech. Stack :
 - [x] Python
