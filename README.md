@@ -42,6 +42,7 @@ Categories :
 - [x] Data Science
 - [x] Exploratory Data Analysis
 - [x] Data Preprocessing (Handling Data Imbalance, Outliers)
+- [x] Data Visualization
 - [x] Feature Selection
 - [x] Machine Learning Model Building
 - [x] Model Evaluation
@@ -72,3 +73,28 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 * Project contains - Data Preprocessing by Scaling, Transforming into One-hot vectors, Data Preparation for model bulding and Model evaluation.
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Proj_Loan.ipynb)
+
+### [Customer Segmentation - K-means](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Clustering_k_means.ipynb)
+
+* Dataset used : [Click here to download](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/labs/customer_segmentation.csv)
+* This Project contains in-depth explaination of K-means clustering algorithm with it's working visualization on randomly generated dataset.
+* Also, Used K-means to segment customers to 3 different Clusters.
+
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Clustering_k_means.ipynb)
+
+### [Patient Drugs Prediction](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
+
+* Dataset used : [Click here to download](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/drug200.csv)
+* This Project contains end-to-end implementation of Decision Tree Classifier with printing tree also.
+* Tree : [Click here to view](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/drugtree.png)
+* This Project contains data preprocessing, model building and model evaluation.
+* Got ~98%+ accuracy.
+
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
+
+# [Nutrition Facts for McDonald's Menu Analysis](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/McDonald's%20Menu.ipynb)
+
+* Dataset used : [Click here to download](https://www.kaggle.com/mcdonalds/nutrition-facts)
+* This Project contains in-depth Exploratory Data Analysis and Visualization about Nutritions in McDonald's Menu.
+
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
