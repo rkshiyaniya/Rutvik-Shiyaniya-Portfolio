@@ -1,6 +1,6 @@
 # Projects :
 
-## 1. Real-time Face Mask Detector :
+## [1. Real-time Face Mask Detector](https://github.com/rkshiyaniya/Real-Time-Face-Mask-Detector) :
 
 Tech. Stack :
 - Python
