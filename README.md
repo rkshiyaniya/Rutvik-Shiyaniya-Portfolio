@@ -1,42 +1,31 @@
-# Skills :
+# Professional Working Experiences :
 
-- Programming Languages -
-  - Proficient    : Python
-  - Familiar With : Java & C
-- BI Tool -
-  - Working Knowledge of Tableau
-- Database -
-  - Familiar with : SQL, MySQL
-- Libraries -
-  - NumPy
-  - Pandas
-  - Matplotlib
-  - OpenCV
-  - Other CV related libraries
-- Machine Learning Library -
-  - Sci-kit Learn
-- Machine Learning Areas -
-  - Proficient    : Supervised Learning Algorithms
-  - Familiar with : Unsupervised Learning Algorithms
-- Deep Learning Framework -
-  - TensorFlow
-  - Keras
-- Deep Learning Areas -
-  - Proficient    : Computer Vision
-  - Familiar With : NLP & GANs
-- Computer Vision Areas -
-  - Image Classification
-  - Image Segmentation
-  - Object Detection
-- Version Control Tools -
-  - Git
-  - GitHub
-- Web Framework -
-  - Familiar with : Flask
-- Tools/IDEs -
-  - Jupyter Notebook
-  - Google Colab
-  - PyCharm
+### MACHINE LEARNING INTERN
+### WeHear | June 2021 - Present
+Key Achievements & Responsibilities :
+- [x] Researched on NIR-Spectroscopy to understand data
+- [x] Performed Data Preprocessing and Cleaning
+- [x] Visualized the data to get better in-sight
+- [x] Analyzed Data using Statistical Methods
+- [x] Built Machine Learning Model for Classification
+- [x] Helped to classify medicines into respective categories
+
+### MACHINE LEARNING & DATA SCIENCE INTERN
+### MentorBoxx | April 2021 - June 2021
+Key Achievements & Responsibilities :
+- [x] Trained on Machine Learning & Data Science Concepts
+- [x] Applied Exploratory Data Analysis and Data Preprocessing techniques on various types of Dataset
+- [x] Worked on live industry assigned projects
+- [x] Learnt to design complete Data Science Project
+- [x] Implemented end-to-end Data Science projects from Data Preprocessing to Build Predictive Model and deployed on local server
+
+### MACHINE LEARNING DEVELOPMENT ENGINEER, INTERN
+### Stark Apps | April 2021 - May 2021
+Key Achievements & Responsibilities :
+- [x] Researched and Designed Computer Vision Project
+- [x] Implemented in Deep Learning with TensorFlow
+- [x] Worked on Doctor's Handwritten Prescription Recognition Model
+- [x] Got to learn extra about Computer Vision and NLP tasks. Built personal Handwritten Words Recognizer as a base model with good accuracy
 
 # Projects :
 ---
@@ -207,3 +196,43 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 * This Project contains in-depth Exploratory Data Analysis and Visualization about Nutritions in McDonald's Menu.
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
+
+# Skills :
+
+- Programming Languages -
+  - Proficient    : Python
+  - Familiar With : Java & C
+- BI Tool -
+  - Working Knowledge of Tableau
+- Database -
+  - Familiar with : SQL, MySQL
+- Libraries -
+  - NumPy
+  - Pandas
+  - Matplotlib
+  - OpenCV
+  - Other CV related libraries
+- Machine Learning Library -
+  - Sci-kit Learn
+- Machine Learning Areas -
+  - Proficient    : Supervised Learning Algorithms
+  - Familiar with : Unsupervised Learning Algorithms
+- Deep Learning Framework -
+  - TensorFlow
+  - Keras
+- Deep Learning Areas -
+  - Proficient    : Computer Vision
+  - Familiar With : NLP & GANs
+- Computer Vision Areas -
+  - Image Classification
+  - Image Segmentation
+  - Object Detection
+- Version Control Tools -
+  - Git
+  - GitHub
+- Web Framework -
+  - Familiar with : Flask
+- Tools/IDEs -
+  - Jupyter Notebook
+  - Google Colab
+  - PyCharm
