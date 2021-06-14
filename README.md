@@ -37,6 +37,86 @@ Key Achievements & Responsibilities :
 # Projects :
 ---
 ---
+## Data Science & Machine Learning Projects :
+---
+Tech. Stack :
+- [x] Python
+- [x] NumPy
+- [x] Pandas
+- [x] Matplotlib
+- [x] Seaborn
+- [x] Sci-kit Learn
+
+Categories :
+- [x] Supervised Learning
+- [x] Classification Algorithms
+- [x] Machine Learning
+- [x] Data Science
+- [x] Exploratory Data Analysis
+- [x] Data Preprocessing (Handling Data Imbalance, Outliers)
+- [x] Data Visualization
+- [x] Feature Selection
+- [x] Machine Learning Model Building
+- [x] Model Evaluation
+
+### [Breast Cancer Predication](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Classification%202.ipynb)
+
+* Dataset used : [Click here to download](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+* I have uploaded 2 versions of this project.
+* Version 1 : This [Notebook](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Classification%201.ipynb) contains simple method for feature selection based on correlation with target attribute.
+* Version 2 : This [Notebook](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Classification%202.ipynb) contains logistic regression method for feature selection based on column's accuracy.
+* Able to got ~100% accuracy.
+
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Classification%202.ipynb)
+
+---
+### [Red Wine Quality Prediction](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Red%20Wine%20Quality.ipynb)
+
+* Dataset used : [Click here to download](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
+* Project contains in-depth insight into Dataset - Exploratory Data Analysis, Visualization and Data Preparation.
+* Tried different algorithms for classification and got ~98% accuracy.
+
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Red%20Wine%20Quality.ipynb)
+
+---
+### [Loan Answer Prediction](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Proj_Loan.ipynb)
+
+* Dataset used : 
+- Train - [Click here to download](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_train.csv)
+- Test - [Click here to download](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_test.csv)
+* Project contains - Data Preprocessing by Scaling, Transforming into One-hot vectors, Data Preparation for model bulding and Model evaluation.
+
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Proj_Loan.ipynb)
+
+---
+### [Customer Segmentation - K-means](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Clustering_k_means.ipynb)
+
+* Dataset used : [Click here to download](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/labs/customer_segmentation.csv)
+* This Project contains in-depth explaination of K-means clustering algorithm with it's working visualization on randomly generated dataset.
+* Also, Used K-means to segment customers to 3 different Clusters.
+
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Clustering_k_means.ipynb)
+
+---
+### [Patient Drugs Prediction](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
+
+* Dataset used : [Click here to download](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/drug200.csv)
+* This Project contains end-to-end implementation of Decision Tree Classifier with printing tree also.
+* Tree : [Click here to view](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/drugtree.png)
+* This Project contains data preprocessing, model building and model evaluation.
+* Got ~98%+ accuracy.
+
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
+
+---
+### [Nutrition Facts for McDonald's Menu Analysis](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/McDonald's%20Menu.ipynb)
+
+* Dataset used : [Click here to download](https://www.kaggle.com/mcdonalds/nutrition-facts)
+* This Project contains in-depth Exploratory Data Analysis and Visualization about Nutritions in McDonald's Menu.
+
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
+
+---
 ## Deep Learning (Computer Vision) Projects :
 ---
 ### [Image Classification Projects](https://github.com/rkshiyaniya/Image-Classification-Using-TensorFlow)
@@ -124,7 +204,7 @@ This notebook illustrates how to build a UNet for semantic image segmentation. T
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Image-Segmentation-Using-TensorFlow)
 
 ---
-### [Object-Detection-Using-TensorFlow](https://github.com/rkshiyaniya/Object-Detection-Using-TensorFlow)
+### [Object Detection Using TensorFlow](https://github.com/rkshiyaniya/Object-Detection-Using-TensorFlow)
 
 This repository contains Various Techniques that can be used for object detection.
 
@@ -158,88 +238,8 @@ A notebook for "out-of-the-box" object detection model from TensorFlow Hub and i
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Object-Detection-Using-TensorFlow)
 
 ---
-## Data Science & Machine Learning Projects :
 ---
-Tech. Stack :
-- [x] Python
-- [x] NumPy
-- [x] Pandas
-- [x] Matplotlib
-- [x] Seaborn
-- [x] Sci-kit Learn
-
-Categories :
-- [x] Supervised Learning
-- [x] Classification Algorithms
-- [x] Machine Learning
-- [x] Data Science
-- [x] Exploratory Data Analysis
-- [x] Data Preprocessing (Handling Data Imbalance, Outliers)
-- [x] Data Visualization
-- [x] Feature Selection
-- [x] Machine Learning Model Building
-- [x] Model Evaluation
-
-### [Breast Cancer Predication](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Classification%202.ipynb)
-
-* Dataset used : [Click here to download](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
-* I have uploaded 2 versions of this project.
-* Version 1 : This [Notebook](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Classification%201.ipynb) contains simple method for feature selection based on correlation with target attribute.
-* Version 2 : This [Notebook](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Classification%202.ipynb) contains logistic regression method for feature selection based on column's accuracy.
-* Able to got ~100% accuracy.
-
-For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Classification%202.ipynb)
-
----
-### [Red Wine Quality Prediction](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Red%20Wine%20Quality.ipynb)
-
-* Dataset used : [Click here to download](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
-* Project contains in-depth insight into Dataset - Exploratory Data Analysis, Visualization and Data Preparation.
-* Tried different algorithms for classification and got ~98% accuracy.
-
-For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Red%20Wine%20Quality.ipynb)
-
----
-### [Loan Answer Prediction](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Proj_Loan.ipynb)
-
-* Dataset used : 
-- Train - [Click here to download](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_train.csv)
-- Test - [Click here to download](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/loan_test.csv)
-* Project contains - Data Preprocessing by Scaling, Transforming into One-hot vectors, Data Preparation for model bulding and Model evaluation.
-
-For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Proj_Loan.ipynb)
-
----
-### [Customer Segmentation - K-means](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Clustering_k_means.ipynb)
-
-* Dataset used : [Click here to download](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/labs/customer_segmentation.csv)
-* This Project contains in-depth explaination of K-means clustering algorithm with it's working visualization on randomly generated dataset.
-* Also, Used K-means to segment customers to 3 different Clusters.
-
-For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Clustering_k_means.ipynb)
-
----
-### [Patient Drugs Prediction](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
-
-* Dataset used : [Click here to download](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/drug200.csv)
-* This Project contains end-to-end implementation of Decision Tree Classifier with printing tree also.
-* Tree : [Click here to view](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/drugtree.png)
-* This Project contains data preprocessing, model building and model evaluation.
-* Got ~98%+ accuracy.
-
-For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
-
----
-### [Nutrition Facts for McDonald's Menu Analysis](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/McDonald's%20Menu.ipynb)
-
-* Dataset used : [Click here to download](https://www.kaggle.com/mcdonalds/nutrition-facts)
-* This Project contains in-depth Exploratory Data Analysis and Visualization about Nutritions in McDonald's Menu.
-
-For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
-
----
----
-# Skills :
+## Skills :
 ---
 - Programming Languages -
   - Proficient    : Python
