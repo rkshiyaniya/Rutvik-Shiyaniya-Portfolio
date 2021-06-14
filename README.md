@@ -99,13 +99,15 @@ Categories :
 - [x] Neural Network Architucture Implementation
 - [x] Model Evaluation
 
-### LeNet Architecture Implementation on MNIST Dataset
+#### [LeNet Architecture Implementation on MNIST Dataset](https://github.com/rkshiyaniya/Neural-Network-Architecture-Implementation-for-Image-Classification/blob/main/LeNet_MNIST.ipynb)
 
-For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Neural-Network-Architecture-Implementation-for-Image-Classification/blob/main/LeNet_MNIST.ipynb)
+LeNet Architecture has been used for Image Classification on MNIST handwritten digit dataset.
 
-### MiniVGGNet Architecture Implementation on cifar10 Dataset
+#### [MiniVGGNet Architecture Implementation on cifar10 Dataset](https://github.com/rkshiyaniya/Neural-Network-Architecture-Implementation-for-Image-Classification/blob/main/MiniVGGNet_cifar10.ipynb)
 
-For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Neural-Network-Architecture-Implementation-for-Image-Classification/blob/main/MiniVGGNet_cifar10.ipynb)
+MiniVGGNet Architecture has been used for Image Classification on cifar10 dataset.
+
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Neural-Network-Architecture-Implementation-for-Image-Classification)
 
 ### [GUI App for Multiple Handwritten Digit Recognition](https://github.com/rkshiyaniya/Multiple-Handwritten-Digit-Recognition)
 
