@@ -32,10 +32,13 @@ Key Achievements & Responsibilities :
 - [x] Worked on Doctor's Handwritten Prescription Recognition Model
 - [x] Got to learn extra about Computer Vision and NLP tasks. Built personal Handwritten Words Recognizer as a base model with good accuracy
 
+---
+---
 # Projects :
 ---
+---
 ## Deep Learning (Computer Vision) Projects :
-
+---
 ### [Real-time Face Mask Detector](https://github.com/rkshiyaniya/Real-Time-Face-Mask-Detector)
 
 Tech. Stack :
@@ -58,6 +61,7 @@ Categories :
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Real-Time-Face-Mask-Detector)
 
+---
 ### [Rock-Paper-Scissors Classification Using TensorFlow](https://github.com/rkshiyaniya/Rock-Paper-Scissors-Using-TensorFlow)
 
 Dataset Used :
@@ -84,6 +88,7 @@ Categories :
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Rock-Paper-Scissors-Using-TensorFlow)
 
+---
 ### [Image Classification with Different Neural Network Architecture](https://github.com/rkshiyaniya/Neural-Network-Architecture-Implementation-for-Image-Classification)
 
 Tech. Stack :
@@ -109,6 +114,7 @@ MiniVGGNet Architecture has been used for Image Classification on cifar10 datase
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Neural-Network-Architecture-Implementation-for-Image-Classification)
 
+---
 ### [GUI App for Multiple Handwritten Digit Recognition](https://github.com/rkshiyaniya/Multiple-Handwritten-Digit-Recognition)
 
 Tech. Stack :
@@ -133,6 +139,7 @@ Categories :
 
 For more details and Source Code Visit my Repo : [Github Link]((https://github.com/rkshiyaniya/Multiple-Handwritten-Digit-Recognition))
 
+---
 ### [Image Segmentation with Different Neural Network Architecture](https://github.com/rkshiyaniya/Image-Segmentation-Using-TensorFlow)
 
 Tech. Stack :
@@ -158,6 +165,7 @@ This notebook illustrates how to build a UNet for semantic image segmentation. T
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Image-Segmentation-Using-TensorFlow)
 
+---
 ### [Object-Detection-Using-TensorFlow](https://github.com/rkshiyaniya/Object-Detection-Using-TensorFlow)
 
 This repository contains Various Techniques that can be used for object detection.
@@ -193,7 +201,7 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 
 ---
 ## Data Science & Machine Learning Projects :
-
+---
 Tech. Stack :
 - [x] Python
 - [x] NumPy
@@ -224,6 +232,7 @@ Categories :
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Classification%202.ipynb)
 
+---
 ### [Red Wine Quality Prediction](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Red%20Wine%20Quality.ipynb)
 
 * Dataset used : [Click here to download](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
@@ -232,6 +241,7 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Red%20Wine%20Quality.ipynb)
 
+---
 ### [Loan Answer Prediction](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Proj_Loan.ipynb)
 
 * Dataset used : 
@@ -241,6 +251,7 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Proj_Loan.ipynb)
 
+---
 ### [Customer Segmentation - K-means](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Clustering_k_means.ipynb)
 
 * Dataset used : [Click here to download](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/labs/customer_segmentation.csv)
@@ -249,6 +260,7 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Clustering_k_means.ipynb)
 
+---
 ### [Patient Drugs Prediction](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
 
 * Dataset used : [Click here to download](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/drug200.csv)
@@ -259,6 +271,7 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
 
+---
 ### [Nutrition Facts for McDonald's Menu Analysis](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/McDonald's%20Menu.ipynb)
 
 * Dataset used : [Click here to download](https://www.kaggle.com/mcdonalds/nutrition-facts)
@@ -266,6 +279,8 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 
 For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
 
+---
+---
 # Skills :
 ---
 - Programming Languages -
