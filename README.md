@@ -244,36 +244,36 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 - Programming Languages -
   - Proficient    : Python
   - Familiar With : Java & C
-- BI Tool -
-  - Working Knowledge of Tableau
-- Database -
-  - Working Knowledge of SQL & MySQL
-- Libraries -
+- Working Knowledge of Tableau
+- SQL
+- Probability & Statistics
+- Exploratory Data Analysis -
   - NumPy
   - Pandas
+- Data Visualization -
   - Matplotlib
+  - Seaborn
+- CV related Library -
   - OpenCV
-  - Other CV related libraries
-- Machine Learning Library -
+- Machine Learning -
   - Sci-kit Learn
 - Machine Learning Areas -
-  - Proficient    : Supervised Learning Algorithms
-  - Familiar with : Unsupervised Learning Algorithms
+  - Hands-on Experience with Classification, Regression Algorithms
+  - Familiar with Clustering Algorithms
 - Deep Learning Framework -
   - TensorFlow
   - Keras
 - Deep Learning Areas -
-  - Proficient    : Computer Vision
-  - Familiar With : NLP & GANs
+  - Hands-on Experience with  Computer Vision
+  - Familiar With : NLP, GANs
 - Computer Vision Areas -
-  - Image Classification
-  - Image Segmentation
-  - Object Detection
+  - Hands-on Experience with Image Classification
+  - Working Knowledge Of Image Segmentation, Object Detection
 - Version Control Tools -
   - Git
   - GitHub
 - Web Framework -
-  - Familiar with : Flask
+  - Familiar with Flask
 - Tools/IDEs -
   - Jupyter Notebook
   - Google Colab
