@@ -247,7 +247,7 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 - BI Tool -
   - Working Knowledge of Tableau
 - Database -
-  - Familiar with : SQL, MySQL
+  - Working Knowledge of SQL & MySQL
 - Libraries -
   - NumPy
   - Pandas
