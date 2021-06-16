@@ -239,6 +239,17 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 
 ---
 ---
+## Tableau - Data Analysis & Visualization - Projects :
+---
+
+### [IPL Story 2008-2020](https://public.tableau.com/app/profile/rutvik.shiyaniya/viz/IPLStory2008-2020_16237774116130/Story1)
+
+Viz Hosted @ [Click-me](https://public.tableau.com/app/profile/rutvik.shiyaniya/viz/IPLStory2008-2020_16237774116130/Story1)
+
+For more Details : [Click-here](https://github.com/rkshiyaniya/Tableau-Projects)
+
+---
+---
 ## Skills :
 ---
 - Programming Languages -
