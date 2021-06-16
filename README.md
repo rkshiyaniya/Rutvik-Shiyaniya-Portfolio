@@ -265,7 +265,7 @@ For more Details : [Click-here](https://github.com/rkshiyaniya/Tableau-Projects)
   - Matplotlib
   - Seaborn
 - CV related Library -
-  - OpenCV
+  - OpenCV, PIL, Other Utilities
 - Machine Learning -
   - Sci-kit Learn
 - Machine Learning Areas -
