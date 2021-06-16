@@ -11,9 +11,9 @@ Key Achievements & Responsibilities :
 - [x] Researched on NIR-Spectroscopy to understand data
 - [x] Performed Data Preprocessing and Cleaning
 - [x] Visualized the data to get better in-sight
-- [x] Analyzed Data using Statistical Methods
-- [x] Built Machine Learning Model for Classification
-- [x] Helped to classify medicines into respective categories
+- [x] Analyzed Data using Statistical Methods 
+- [x] Built Predictive Machine Learning Model
+- [x] Test and Evaluate Model to make it more generalize
 
 ### MACHINE LEARNING & DATA SCIENCE INTERN
 ### @MentorBoxx | April 2021 - June 2021
