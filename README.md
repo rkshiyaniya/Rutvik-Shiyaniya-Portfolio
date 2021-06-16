@@ -244,7 +244,9 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 
 ### [IPL Story 2008-2020](https://public.tableau.com/app/profile/rutvik.shiyaniya/viz/IPLStory2008-2020_16237774116130/Story1)
 
-Viz Hosted @ [Click-me](https://public.tableau.com/app/profile/rutvik.shiyaniya/viz/IPLStory2008-2020_16237774116130/Story1)
+### [McDonald's Nutrition Facts Menu Analysis](https://public.tableau.com/app/profile/rutvik.shiyaniya/viz/McDNutritionsFactsMenuAnalysis/McDMenu)
+
+Tableau Profile : [Click-here](https://public.tableau.com/profile/rutvik.shiyaniya#!/)
 
 For more Details : [Click-here](https://github.com/rkshiyaniya/Tableau-Projects)
 
