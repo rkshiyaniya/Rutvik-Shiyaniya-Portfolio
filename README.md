@@ -2,8 +2,8 @@
 ---
 
 ![email_logo](email_logo.png) rkshiyaniya@gmail.com
-![linkedin_logo](linkedin_logo.png) https://www.linkedin.com/in/rkshiyaniya
-![github_logo](github_logo.png) https://github.com/rkshiyaniya
+![linkedin_logo](linkedin_logo.png){width=50%} https://www.linkedin.com/in/rkshiyaniya
+![github_logo](github_logo.png){width=50%} https://github.com/rkshiyaniya
 
 -----
 A Data Science Enthusiast with hands-on working experience in Data Science, Machine Learning and Deep Learning(Computer Vision) domain. Interested in getting insight from the data, to perform Exploratory Statistical Data Analysis, Visualization and build predictive Machine Learning model. Have knowledge of Data Analysis and Visualization with Tableau. Also carrying major experience in Deep Learning specially in Computer Vision domain with many hands-on projects.
