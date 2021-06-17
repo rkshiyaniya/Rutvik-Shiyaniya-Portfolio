@@ -1,8 +1,5 @@
-# Hello, Welcome to Rutvik's Portfolio ...
+# Contact Information :
 ---
-
-<img align="right" src="Rutvik_Passport.png" width="120" height="120" right>
-
 <img src="email_logo.png" width="30" height="30" align="left">  :  rkshiyaniya@gmail.com
 
 <img src="linkedin_logo.png" width="30" height="30" align="left">  :  [  https://www.linkedin.com/in/rkshiyaniya](https://www.linkedin.com/in/rkshiyaniya)
