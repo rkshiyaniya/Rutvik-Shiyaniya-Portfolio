@@ -1,13 +1,13 @@
 # Hello, Welcome to Rutvik's Portfolio ...
 ---
 
-<img align="right" src="Rutvik_Passport.png" width="120" height="150" right>
+<img align="right" src="Rutvik_Passport.png" width="120" height="125" right>
 
-<img src="email_logo.png" width="30" height="30" align="left"> rkshiyaniya@gmail.com
+<img src="email_logo.png" width="30" height="30" align="left">   rkshiyaniya@gmail.com
 
-<img src="linkedin_logo.png" width="30" height="30" align="left"> https://www.linkedin.com/in/rkshiyaniya
+<img src="linkedin_logo.png" width="30" height="30" align="left">   https://www.linkedin.com/in/rkshiyaniya
 
-<img src="github_logo.png" width="30" height="30" align="left"> https://github.com/rkshiyaniya
+<img src="github_logo.png" width="30" height="30" align="left">   https://github.com/rkshiyaniya
 
 -----
 A Data Science Enthusiast with hands-on working experience in Data Science, Machine Learning and Deep Learning(Computer Vision) domain. Interested in getting insight from the data, to perform Exploratory Statistical Data Analysis, Visualization and build predictive Machine Learning model. Have knowledge of Data Analysis and Visualization with Tableau. Also carrying major experience in Deep Learning specially in Computer Vision domain with many hands-on projects.
