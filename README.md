@@ -120,7 +120,7 @@ For more details and Source Code Visit my Repo : [Github Link](https://github.co
 * Dataset used : [Click here to download](https://www.kaggle.com/mcdonalds/nutrition-facts)
 * This Project contains in-depth Exploratory Data Analysis and Visualization about Nutritions in McDonald's Menu.
 
-For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects/blob/main/Decision_Trees_drugs.ipynb)
+For more details and Source Code Visit my Repo : [Github Link](https://github.com/rkshiyaniya/Data-Science-Machine-Learning-Projects)
 
 ---
 ## Deep Learning (Computer Vision) Projects :
