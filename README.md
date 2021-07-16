@@ -1,5 +1,3 @@
-# Contact Information :
----
 <img src="email_logo.png" width="30" height="30" align="left"> &nbsp; rkshiyaniya@gmail.com
 
 <img src="linkedin_logo.png" width="30" height="30" align="left"> &nbsp; [https://www.linkedin.com/in/rkshiyaniya](https://www.linkedin.com/in/rkshiyaniya)
