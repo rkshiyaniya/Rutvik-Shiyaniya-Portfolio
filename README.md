@@ -7,19 +7,18 @@
 <img src="github_logo.png" width="30" height="30" align="left"> &nbsp; [https://github.com/rkshiyaniya](https://github.com/rkshiyaniya)
 
 -----
-A Data Science Enthusiast with hands-on working experience in Data Science, Machine Learning and Deep Learning(Computer Vision) domain. Interested in getting insight from the data, to perform Exploratory Statistical Data Analysis, Visualization and build predictive Machine Learning model. Have knowledge of Data Analysis and Visualization with Tableau. Also carrying major experience in Deep Learning specially in Computer Vision domain with many hands-on projects.
+Data Science Enthusiast with 1+ years of working experience in the field of Data Science, Machine Learning, and Deep Learning (Computer Vision & Natural Language Processing).
 
 # Professional Work Experiences :
 ---
 ### MACHINE LEARNING INTERN
 ### @WeHear | June 2021 - Present
 Key Achievements & Responsibilities :
-- [x] Researched on NIR-Spectroscopy to understand data
-- [x] Performed Data Preprocessing and Cleaning
-- [x] Visualized the data to get better in-sight
-- [x] Analyzed Data using Statistical Methods 
-- [x] Built Predictive Machine Learning Model
-- [x] Test and Evaluate Model to make it more generalize
+- [x] Analyzed and Visualized Data for better in-sight
+- [x] Performed Data Preprocessing & Data Preparing tasks
+- [x] Used XGBoost & Random-Forest classifier to train a model
+- [x] Evaluate Model Performance for generalization
+- [x] Deployed Predictive end-to-end ML Pipeline
 
 ### MACHINE LEARNING & DATA SCIENCE INTERN
 ### @MentorBoxx | April 2021 - June 2021
@@ -33,10 +32,9 @@ Key Achievements & Responsibilities :
 ### MACHINE LEARNING DEVELOPMENT ENGINEER INTERN
 ### @Stark Apps | April 2021 - May 2021
 Key Achievements & Responsibilities :
-- [x] Researched and Designed Computer Vision Project
-- [x] Implemented in Deep Learning with TensorFlow
-- [x] Worked on Doctor's Handwritten Prescription Recognition Model
-- [x] Got to learn extra about Computer Vision and NLP tasks. Built personal Handwritten Words Recognizer as a base model with good accuracy
+- [x] Worked on Computer Vision based Doctor’s Handwritten Prescription Recognition Project
+- [x] Researched and Designed Project workflow
+- [x] Used CNN + LSTM based architecture to make a base model in TensorFlow
 
 ---
 ---
